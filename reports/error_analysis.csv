@@ -1,0 +1,21 @@
+url,label,malicious_probability,error_type,red_flags
+sydneyarchives.info/index.php?option=com_content&view=article&id=163&Itemid=152,0,0.9956,false_positive,Uses a top-level domain often seen in abuse; Points directly at an executable or script-like file; Not using HTTPS
+jornalabm.com.br/sigininonebynowsigninow/index.html.htm,0,0.9844,false_positive,Points directly at an executable or script-like file; Not using HTTPS
+fesmus.ru/form/index.html,0,0.9844,false_positive,Uses a top-level domain often seen in abuse; Points directly at an executable or script-like file; Not using HTTPS
+fdsfjd.h16.ru/BayISAPIdllSignInUsingSSL3FMyEbayBeta.html,0,0.983,false_positive,Uses a top-level domain often seen in abuse; Points directly at an executable or script-like file; Not using HTTPS
+mynet363.ru/wp-includes/index.html,0,0.9766,false_positive,Uses a top-level domain often seen in abuse; Points directly at an executable or script-like file; Not using HTTPS
+seagull.hu/doc/index.html,0,0.9665,false_positive,Points directly at an executable or script-like file; Not using HTTPS
+reduktorservis.ru/inc/azbacaba.htm,0,0.9634,false_positive,Uses a top-level domain often seen in abuse; Points directly at an executable or script-like file; Not using HTTPS
+supportservice-amazon.de/verifi.htm,0,0.9634,false_positive,Points directly at an executable or script-like file; Not using HTTPS
+romaria.com.ua/wp-content/admin/index.htm,0,0.9427,false_positive,Points directly at an executable or script-like file; Not using HTTPS
+chelt.ru/new/wp-content/plugins/wp-user-frontend/lib/payment/?/r4t5y6/index.php,0,0.9346,false_positive,Uses a top-level domain often seen in abuse; Not using HTTPS
+SXpßl(~{Í.ûøL¥¨Ñ{g+=ùòõöàF{:¥ÆÛèÕf÷)Ñ*C/lly8}<ïxÌ#Fº6iÝ»8sºM¬4¯*K,1,0.0,false_negative,Uses an explicit non-default port; Not using HTTPS
+Ió.C³^C·Ù*%yÖg²2Oê,1,0.0007,false_negative,Not using HTTPS
+http://www.naylorantiques.com/d0y_qx_6_l_6hqo_ewkbketxbu1u7oy10gmkyfrgwnm8llrdhlxcps_ale1_d9b6mij__8tja_b1t__hke2i6dv4xmv0f1fr24/i5_mlqfp_znd5_khgrrgbwjyv__q6gz1yve5hq7agfj3o_pt8awujg9vuy1__d7hqr8yt42n__luu_hep_1et_dlku4_0f1_5_o/QDCHOZ0LZW.php,1,0.0016,false_negative,Points directly at an executable or script-like file; Very long URL; Not using HTTPS
+http://paypal.com.d6saf46da5s4f.hg6df514g65df4h53dfh.fd1h6thd5341g6wre1g23sdg.h16h3sd1gf6we54gh65s1dfgh6rehg1sdfh16rh13fs1dh65.1h6e1rhgsd54f651gh6we5f1eswd6g553sg.h16wesr1dg3s1d6g5ew1g.sh1we61hg3sd54f6we15g65s1dg.weq6g6sd5g41s.tecsystem.com.mx/,1,0.0016,false_negative,Brand name appears in the subdomain of an unrelated domain; Unusually many subdomains; Very long URL; Not using HTTPS
+christianchapman.nothingbut.football,1,0.0016,false_negative,Not using HTTPS
+http://amharicdictionary.com/NewWords.aspx,1,0.0036,false_negative,Not using HTTPS
+http://www.fundacioncharlot.com/festicine/wp-content/uploads/2011/.paypal.com/www.paypal.com/PayPal/webscr.php?cmd=_login-run&dispatch=5885d80a13c0db1f1ff80d546411d7f8a8350c132bc41e0934cfc023d4e8f9e51c6688d5daf573bd58b8375a5b40ab241c6688d5daf573bd58b8375a5b40ab24,1,0.0039,false_negative,Points directly at an executable or script-like file; Very long URL; Not using HTTPS
+http://paypal.com.us.login.cgi-bin.dispatch.confirmed.webscr.account64x28423x224j5m56403o2djvreppv28423x224i5j54x22h5d2r8.thayamkulangarakuries.com/ccount64x28423x224j5/confirmed%3fa6=ideworkgroupg_5df24j5m56/,1,0.0048,false_negative,"Brand name appears in the subdomain of an unrelated domain; Contains 3 sensitive words (login, verify, ...); Unusually many subdomains; Very long URL; Not using HTTPS"
+https://8s8cyak8emzp3qvvwmgx5qnqjjr17xltp4haci3m.s3.ap-northeast-2.amazonaws.com/DbQcEeE7zkSVSRIpJCT7%20VDQGGHOi0x5V5ajFZdYA/Emyq6V6ddRdjhVDnsrNBR1E0pCvuriOTZy0OXgaq/AuPbLoqTCGbeDbkjtdLK.html?7cvUR=rFt&amp;buylocalRequestId=02972&amp;buylocal=2765952&amp;utm_source=CycleOps-BuyLocalNow&amp;utm_medium=referral&amp;utm_campaign=BuyLocalNow,1,0.008,false_negative,Many hyphens in the host name; Unusually many subdomains; Points directly at an executable or script-like file; Very long URL
+http://www.ossieindoorbeachvolleyball.com.au/single-playersjoin-a-team/teams-wanting-players,1,0.0105,false_negative,Not using HTTPS
