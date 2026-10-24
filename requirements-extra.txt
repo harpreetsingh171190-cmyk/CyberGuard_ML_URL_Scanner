@@ -1,0 +1,7 @@
+# Optional extras
+xgboost>=2.0     # adds an XGBoost model to the comparison
+streamlit>=1.30  # web app (app.py)
+pytest>=8.0      # run the tests
+fastapi>=0.110  # REST API (api.py)
+uvicorn>=0.27   # serves the API
+httpx>=0.27     # lets you test the API
